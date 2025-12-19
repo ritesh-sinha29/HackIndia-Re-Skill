@@ -185,7 +185,7 @@ Unlike other platforms that provide isolated solutions, Clario offers:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/ritesh-sinha29/clario-Ai-powered-career-platform
+git clone https://github.com/ritesh-sinha29/HackIndia-Clario
 cd clario-Ai-powered-career-platform
 ```
 
