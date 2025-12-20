@@ -29,7 +29,7 @@ Students face four critical challenges:
 
 ## 💡 Our Solution
 
-**Clario** is an AI-powered platform that guides students with clear career roadmaps and essential tools, aligning with:
+**ReSkill** is an AI-powered platform that guides students with clear career roadmaps and essential tools, aligning with:
 - **UN SDG 4**: Quality Education
 - **UN SDG 8**: Decent Work & Economic Growth
 
@@ -117,7 +117,7 @@ It all starts with quiz ! - to mentor connect (industry experts) - to personalis
 
 ## 🎨 Key Highlights
 
-### Why Clario is Different
+### Why ReSkill is Different
 
 Unlike other platforms that provide isolated solutions, Clario offers:
 
@@ -274,7 +274,7 @@ G --> H[Market Ready]
 |------|------|---------|
 | **Ronit Rai** | Team Leader | LPU (CSE 2nd Year) |
 | **Ritesh Sinha** | FullStack Dev & Researcher | SSAIET, Navsari (CSE 2nd Year) | 
-| **Riya** | UI/UX & R&D | LPU (CSE 2nd Year) | 
+| **Riya Kumari** | UI/UX & R&D | LPU (CSE 2nd Year) | 
 
 
 ---
